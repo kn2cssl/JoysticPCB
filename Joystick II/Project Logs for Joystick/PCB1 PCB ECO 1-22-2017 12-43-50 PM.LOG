@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=KEY7 Pin=J4-7
+Removed Pin From Net: NetName=KEY8 Pin=J4-10
+Removed Pin From Net: NetName=KEY9 Pin=J4-13
+Removed Pin From Net: NetName=KEY10 Pin=J4-14
+Removed Pin From Net: NetName=KEY11 Pin=J4-15
+Removed Pin From Net: NetName=KEY12 Pin=J4-16
+Removed Pin From Net: NetName=KEY13 Pin=J4-17
+Removed Pin From Net: NetName=KEY14 Pin=J4-18
+Added Pin To Net: NetName=KEY7 Pin=J4-10
+Added Pin To Net: NetName=KEY8 Pin=J4-13
+Added Pin To Net: NetName=KEY9 Pin=J4-14
+Added Pin To Net: NetName=KEY10 Pin=J4-15
+Added Pin To Net: NetName=KEY11 Pin=J4-16
+Added Pin To Net: NetName=KEY12 Pin=J4-17
+Added Pin To Net: NetName=KEY13 Pin=J4-18

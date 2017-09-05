@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=7SEGC Pin=U2-2
+Removed Pin From Net: NetName=7SEGA Pin=U2-4
+Removed Pin From Net: NetName=7SEGD Pin=U2-46
+Added Pin To Net: NetName=7SEGD Pin=U2-2
+Added Pin To Net: NetName=7SEGC Pin=U2-4
+Added Pin To Net: NetName=7SEGA Pin=U2-46

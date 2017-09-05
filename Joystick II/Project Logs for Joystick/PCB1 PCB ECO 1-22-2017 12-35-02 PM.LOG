@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=7SEGC Pin=J3-7
+Change Net Name : Old Net Name=KEY7 New Net Name=KEY8
+Change Net Name : Old Net Name=KEY8 New Net Name=KEY9
+Change Net Name : Old Net Name=KEY9 New Net Name=KEY10
+Change Net Name : Old Net Name=KEY10 New Net Name=KEY11
+Change Net Name : Old Net Name=KEY11 New Net Name=KEY12
+Change Net Name : Old Net Name=KEY12 New Net Name=KEY13
+Change Net Name : Old Net Name=KEY13 New Net Name=KEY14
+Added Pin To Net: NetName=KEY7 Pin=J4-7
+Added Net: Name=KEY7

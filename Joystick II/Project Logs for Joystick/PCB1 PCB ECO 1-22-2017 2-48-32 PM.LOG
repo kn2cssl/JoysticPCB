@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ANALOGX Pin=U1-10
+Removed Pin From Net: NetName=ANALOGY Pin=U1-11
+Removed Pin From Net: NetName=ANALOGW Pin=U1-12
+Removed Pin From Net: NetName=ANALOG POWER Pin=U1-13
+Added Pin To Net: NetName=ANALOGY Pin=U1-10
+Added Pin To Net: NetName=ANALOGX Pin=U1-11
+Added Pin To Net: NetName=ANALOG POWER Pin=U1-12
+Added Pin To Net: NetName=ANALOG W Pin=U1-13
+Added Net: Name=ANALOG W

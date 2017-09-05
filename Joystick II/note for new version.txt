@@ -1,0 +1,11 @@
+on Schematics:
+connect the fucking interrupt pin of nrf
+delete that fucking led we have a 7-seg already
+FPC connector is fucked up on connection of ground pin
+NRFschematics ist falch
+
+on PCB:
+don't use fucking idiotic angles please
+you can make it smaller 
+and also remember for cheking polygon on both sides and also it should be as exact size of the board no less no more
+remember to put programmer in someplace that you can palce a connector (wire is rubbish as fuck)

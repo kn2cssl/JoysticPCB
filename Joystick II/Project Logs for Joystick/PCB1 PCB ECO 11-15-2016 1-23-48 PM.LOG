@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ANALOG POWER Pin=J4-2
+Removed Pin From Net: NetName=ANALOGW Pin=J4-5
+Added Pin To Net: NetName=ANALOGW Pin=J4-2
+Added Pin To Net: NetName=ANALOG POWER Pin=J4-5

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=KEY7 Pin=J2-9
+Removed Pin From Net: NetName=GND Pin=J2-10
+Removed Pin From Net: NetName=KEY8 Pin=J2-12
+Removed Pin From Net: NetName=KEY9 Pin=J2-13
+Removed Pin From Net: NetName=KEY10 Pin=J2-14
+Removed Pin From Net: NetName=KEY11 Pin=J2-15
+Removed Pin From Net: NetName=KEY12 Pin=J2-16
+Removed Pin From Net: NetName=KEY13 Pin=J2-17
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=3.3V Pin=U3-2
+Removed Pin From Net: NetName=CE Pin=U3-3
+Removed Pin From Net: NetName=MOSI Pin=U3-4
+Removed Pin From Net: NetName=SCK Pin=U3-5
+Removed Pin From Net: NetName=CS Pin=U3-6
+Removed Pin From Net: NetName=MISO Pin=U3-7
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=U4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Added Component: Designator=U2(NRF24L01)
+Added Pin To Net: NetName=KEY7 Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J4-11
+Added Pin To Net: NetName=KEY8 Pin=J4-13
+Added Pin To Net: NetName=KEY9 Pin=J4-14
+Added Pin To Net: NetName=KEY10 Pin=J4-15
+Added Pin To Net: NetName=KEY11 Pin=J4-16
+Added Pin To Net: NetName=KEY12 Pin=J4-17
+Added Pin To Net: NetName=KEY13 Pin=J4-18
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=CE Pin=U2-3
+Added Pin To Net: NetName=CS Pin=U2-4
+Added Pin To Net: NetName=SCK Pin=U2-5
+Added Pin To Net: NetName=MOSI Pin=U2-6
+Added Pin To Net: NetName=MISO Pin=U2-7
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Added Pin To Net: NetName=IRQ Pin=U2-8
+Added Net: Name=IRQ
+Added Member To Class: ClassName=Sheet1 Member=Component U2 nrf24L01
+Added Room: Name=Sheet1

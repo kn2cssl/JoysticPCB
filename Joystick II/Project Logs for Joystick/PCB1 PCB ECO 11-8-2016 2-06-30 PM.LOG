@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=3.3V Pin=P1-2
+Removed Pin From Net: NetName=ANALOGX Pin=P1-3
+Removed Pin From Net: NetName=ANALOGY Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=3.3V Pin=P2-2
+Removed Pin From Net: NetName=ANALOGW Pin=P2-3
+Removed Pin From Net: NetName=ANALOG POWER Pin=P2-4
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Added Component: Designator=J3(JOY STICK)
+Added Component: Designator=J4(JOY STICK)
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=ANALOG POWER Pin=J3-2
+Added Pin To Net: NetName=3.3V Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=ANALOGW Pin=J3-5
+Added Pin To Net: NetName=3.3V Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=ANALOGY Pin=J4-2
+Added Pin To Net: NetName=3.3V Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=ANALOGX Pin=J4-5
+Added Pin To Net: NetName=3.3V Pin=J4-6
+Added Member To Class: ClassName=Sheet1 Member=Component J3 JOY-STICK
+Added Member To Class: ClassName=Sheet1 Member=Component J4 JOY-STICK

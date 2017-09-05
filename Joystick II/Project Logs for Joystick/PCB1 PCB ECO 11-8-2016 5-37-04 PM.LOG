@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SEGE Pin=U2-2
+Removed Pin From Net: NetName=SEGF Pin=U2-3
+Removed Pin From Net: NetName=SEGG Pin=U2-4
+Removed Pin From Net: NetName=SEGA Pin=U2-42
+Removed Pin From Net: NetName=SEGB Pin=U2-43
+Removed Pin From Net: NetName=SEGC Pin=U2-45
+Added Pin To Net: NetName=SEGC Pin=U2-2
+Added Pin To Net: NetName=SEGB Pin=U2-3
+Added Pin To Net: NetName=SEGA Pin=U2-4
+Added Pin To Net: NetName=SEGG Pin=U2-42
+Added Pin To Net: NetName=SEGF Pin=U2-43
+Added Pin To Net: NetName=SEGE Pin=U2-45
